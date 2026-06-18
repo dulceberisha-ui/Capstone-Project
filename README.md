@@ -90,7 +90,7 @@ Sentiment: Mixed
 Severity: Medium
 Escalation Required: Yes
 The agent correctly identified both positive and negative aspects of the experience and recommended management review.
-Insert Screenshot 3
+![Medium Threat Review Test](MTR.png)
 Test Run 3 – Serious Customer Complaint
 Input:
 "We waited over an hour for our food. It arrived cold, and when we asked for help the manager refused to speak with us. This is the second time this has happened."
@@ -99,7 +99,7 @@ Sentiment: Negative
 Severity: High
 Escalation Required: Yes
 The agent correctly recognized multiple service failures and recommended escalation.
-Insert Screenshot 4
+![High Threat Review Test](HTR.png)
 Risk and Governance
 Prompt Injection
 Risk
