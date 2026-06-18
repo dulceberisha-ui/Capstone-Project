@@ -7,7 +7,6 @@ The Build
 I built a Restaurant Complaint Escalation Agent designed for restaurant managers and operations teams. The purpose of the agent is to analyze customer complaints and reviews, determine the seriousness of the issue, decide whether management intervention is required, and generate both customer-facing and internal business responses.
 The workflow begins when a customer complaint is submitted. The agent analyzes the complaint and identifies sentiment, category, severity level, and whether escalation is required. It then creates a professional customer response, an internal manager memo, and a recommended action plan.
 This workflow mirrors a real process commonly performed by restaurant managers and customer service staff. By automating the initial review process, the agent helps managers prioritize serious complaints while maintaining consistent communication with customers.
-Pic 1
 https://app.relevanceai.com/agents/d7b62b/894effb2-c397-4d5f-8a29-3abf3d5fe972/9c9a85c1-e253-49de-96d7-ecc2d173c24e/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
 Agent Card
 Purpose
