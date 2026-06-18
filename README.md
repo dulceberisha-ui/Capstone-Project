@@ -81,7 +81,7 @@ Sentiment: Positive
 Severity: Low
 Escalation Required: No
 The agent correctly recognized a positive experience and determined that no escalation was necessary.
-Insert Screenshot 2
+![Positive Test Review](PTR.png)
 Test Run 2 – Reservation Delay
 Input:
 "The food tasted great but we waited 45 minutes for our table even though we had a reservation."
