@@ -59,6 +59,8 @@ Severe customer service failures
 Potential legal issues
 Success Metric
 The agent successfully classifies complaints, identifies escalation needs, and produces accurate customer-facing and internal management outputs.
+![Agent Overview](AO.png)
+![Agent Test Run 1](AO2.png)
 Evaluation
 The agent was evaluated using the four dimensions discussed in Module 3.
 Correctness
